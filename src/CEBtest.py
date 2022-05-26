@@ -1,7 +1,7 @@
 import unittest
 from math import *
 
-from projet1 import compteEstBon
+from main import compteEstBon
 
 
 class TestCEB(unittest.TestCase):
