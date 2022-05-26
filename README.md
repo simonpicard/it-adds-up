@@ -6,7 +6,7 @@ A project I did for university
 
 `python src/main.py`
 
-## Example rune
+## Example run
 
 ```
 python src/main.py
